@@ -128,13 +128,14 @@ Discohook is a powerful and flexible Discord webhook sender designed for seamles
 
 ### Prerequisites
 
-Ensure you have the following installed before proceeding:
+Before diving in, make sure you're geared up with the essentials:
 
--   [Node.js](https://nodejs.org/) (Latest LTS version recommended)
+-   **[Node.js](https://nodejs.org/)** – The backbone of modern web development! (Latest LTS version recommended)
     
--   [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/) for package management
+-   **[npm](https://www.npmjs.com/)** or **[yarn](https://yarnpkg.com/)** – Because managing dependencies manually is so last decade.
     
--   A Discord account with webhook permissions
+-   **A Discord account with webhook permissions** – No webhooks? No party! Make sure you have the proper rights.
+    
     
 
 ### Installation
