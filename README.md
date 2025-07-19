@@ -143,7 +143,7 @@ Before diving in, make sure you're geared up with the essentials:
 1.  Clone the repository:
     
     ```sh
-    git clone https://github.com/yourusername/discohook.git
+    git clone https://github.com/AmirAliFayaz/discohook.git
     cd discohook
     
     ```
